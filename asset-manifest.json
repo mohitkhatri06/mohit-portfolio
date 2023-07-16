@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mohit-portfolio/static/css/main.c2ec3af6.css",
+    "main.js": "/mohit-portfolio/static/js/main.7e3a4d64.js",
+    "static/media/logo.svg": "/mohit-portfolio/static/media/logo.777ac3922c05805adec93e6a2124a333.svg",
+    "index.html": "/mohit-portfolio/index.html",
+    "main.c2ec3af6.css.map": "/mohit-portfolio/static/css/main.c2ec3af6.css.map",
+    "main.7e3a4d64.js.map": "/mohit-portfolio/static/js/main.7e3a4d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ec3af6.css",
+    "static/js/main.7e3a4d64.js"
+  ]
+}
