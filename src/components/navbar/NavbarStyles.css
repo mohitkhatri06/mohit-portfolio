@@ -1,0 +1,49 @@
+
+.app-logo {
+    width: 65px;
+    height: 40px;
+}
+.navbar-brand {
+    padding: 30px;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+a.navbar-link.nav-link.active{
+    padding:  3px 15px 3px 15px;
+    font-weight: 700;
+    background: #fff !important;
+    color: black !important;
+    border-radius: 10px; 
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    padding:  10px 100px 10px 30px;
+    align-items: center;
+}
+
+
+a.nav-link.navbar-link{
+    padding:  3px 15px 3px 15px;
+
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 18px;
+    margin-left: 50px;
+   
+}
+
+
+
+
+
