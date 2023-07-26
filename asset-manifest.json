@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.5b8d96a5.css",
-    "main.js": "/mohit-portfolio/static/js/main.49407efe.js",
+    "main.css": "/mohit-portfolio/static/css/main.4e612ea8.css",
+    "main.js": "/mohit-portfolio/static/js/main.91b87dfe.js",
     "static/media/logo.svg": "/mohit-portfolio/static/media/logo.777ac3922c05805adec93e6a2124a333.svg",
     "index.html": "/mohit-portfolio/index.html",
-    "main.5b8d96a5.css.map": "/mohit-portfolio/static/css/main.5b8d96a5.css.map",
-    "main.49407efe.js.map": "/mohit-portfolio/static/js/main.49407efe.js.map"
+    "main.4e612ea8.css.map": "/mohit-portfolio/static/css/main.4e612ea8.css.map",
+    "main.91b87dfe.js.map": "/mohit-portfolio/static/js/main.91b87dfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b8d96a5.css",
-    "static/js/main.49407efe.js"
+    "static/css/main.4e612ea8.css",
+    "static/js/main.91b87dfe.js"
   ]
 }
