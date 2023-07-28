@@ -1,0 +1,18 @@
+.skills {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    padding: 40px;
+    color: #e6ead5;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-image: linear-gradient(to right, #003d97, #294aac, #4357c2, #5b64d8, #7272ee);
+    }
+
+
+    @media (max-width: 768px) {
+        .skills {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+      }

@@ -1,8 +1,17 @@
 * {
-margin: 0;
+
 padding: 0;
 box-sizing: border-box;
 }
+body {
+  background-image: linear-gradient(to right, #1e3962, #30396d, #463874, #5e3378, #762b76);}
+/* .body-below {
+  
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .app-logo {
@@ -18,5 +27,11 @@ box-sizing: border-box;
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 768px) {
+  .body-below {
+    margin-top: 0;
   }
 }
