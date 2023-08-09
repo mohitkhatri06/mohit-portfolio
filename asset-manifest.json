@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.d189699b.css",
-    "main.js": "/mohit-portfolio/static/js/main.b37aeff0.js",
+    "main.css": "/mohit-portfolio/static/css/main.29e617b7.css",
+    "main.js": "/mohit-portfolio/static/js/main.9a3140a7.js",
     "static/media/graphql.png": "/mohit-portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/react.png": "/mohit-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/mohit-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -18,11 +18,11 @@
     "static/media/github.svg": "/mohit-portfolio/static/media/github.df097639a6001342213128ddd7708a49.svg",
     "index.html": "/mohit-portfolio/index.html",
     "static/media/linkedin.svg": "/mohit-portfolio/static/media/linkedin.a5c19aedc9509d8f932cc6206ddb4154.svg",
-    "main.d189699b.css.map": "/mohit-portfolio/static/css/main.d189699b.css.map",
-    "main.b37aeff0.js.map": "/mohit-portfolio/static/js/main.b37aeff0.js.map"
+    "main.29e617b7.css.map": "/mohit-portfolio/static/css/main.29e617b7.css.map",
+    "main.9a3140a7.js.map": "/mohit-portfolio/static/js/main.9a3140a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d189699b.css",
-    "static/js/main.b37aeff0.js"
+    "static/css/main.29e617b7.css",
+    "static/js/main.9a3140a7.js"
   ]
 }
