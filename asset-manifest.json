@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.83f77e37.css",
-    "main.js": "/mohit-portfolio/static/js/main.9561b8c0.js",
+    "main.css": "/mohit-portfolio/static/css/main.d189699b.css",
+    "main.js": "/mohit-portfolio/static/js/main.b37aeff0.js",
+    "static/media/graphql.png": "/mohit-portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/react.png": "/mohit-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/mohit-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/mohit-portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/mohit-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/about_me_image3.svg": "/mohit-portfolio/static/media/about_me_image3.03da8ac31a7dc22af5f40b8eb3f61c21.svg",
+    "static/media/html.png": "/mohit-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/mohit-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/mohit-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/express.png": "/mohit-portfolio/static/media/express.1182731d0fa4994589eb.png",
+    "static/media/javascript.png": "/mohit-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/avatar.svg": "/mohit-portfolio/static/media/avatar.10bf6e331d44650e96c5bc8376daf807.svg",
     "static/media/logo.svg": "/mohit-portfolio/static/media/logo.777ac3922c05805adec93e6a2124a333.svg",
     "static/media/github.svg": "/mohit-portfolio/static/media/github.df097639a6001342213128ddd7708a49.svg",
     "index.html": "/mohit-portfolio/index.html",
     "static/media/linkedin.svg": "/mohit-portfolio/static/media/linkedin.a5c19aedc9509d8f932cc6206ddb4154.svg",
-    "main.83f77e37.css.map": "/mohit-portfolio/static/css/main.83f77e37.css.map",
-    "main.9561b8c0.js.map": "/mohit-portfolio/static/js/main.9561b8c0.js.map"
+    "main.d189699b.css.map": "/mohit-portfolio/static/css/main.d189699b.css.map",
+    "main.b37aeff0.js.map": "/mohit-portfolio/static/js/main.b37aeff0.js.map"
   },
   "entrypoints": [
-    "static/css/main.83f77e37.css",
-    "static/js/main.9561b8c0.js"
+    "static/css/main.d189699b.css",
+    "static/js/main.b37aeff0.js"
   ]
 }
