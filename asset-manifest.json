@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.0f74b425.css",
-    "main.js": "/mohit-portfolio/static/js/main.b72b7931.js",
+    "main.css": "/mohit-portfolio/static/css/main.dc4d8789.css",
+    "main.js": "/mohit-portfolio/static/js/main.563eaef9.js",
+    "static/media/apod.jpg": "/mohit-portfolio/static/media/apod.5837a97979bfd98485a6.jpg",
+    "static/media/iptracker.jpg": "/mohit-portfolio/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
+    "static/media/nftportal.jpg": "/mohit-portfolio/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
     "static/media/graphql.png": "/mohit-portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/waveportal.jpg": "/mohit-portfolio/static/media/waveportal.665fff08903b077c1e50.jpg",
+    "static/media/api.jpg": "/mohit-portfolio/static/media/api.c1dd98a7d4ec1d150dae.jpg",
+    "static/media/webpostman.jpg": "/mohit-portfolio/static/media/webpostman.4689118f2fcc4d7a6fc5.jpg",
     "static/media/react.png": "/mohit-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/mohit-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/nextjs.png": "/mohit-portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
@@ -18,11 +24,11 @@
     "static/media/github.svg": "/mohit-portfolio/static/media/github.df097639a6001342213128ddd7708a49.svg",
     "index.html": "/mohit-portfolio/index.html",
     "static/media/linkedin.svg": "/mohit-portfolio/static/media/linkedin.a5c19aedc9509d8f932cc6206ddb4154.svg",
-    "main.0f74b425.css.map": "/mohit-portfolio/static/css/main.0f74b425.css.map",
-    "main.b72b7931.js.map": "/mohit-portfolio/static/js/main.b72b7931.js.map"
+    "main.dc4d8789.css.map": "/mohit-portfolio/static/css/main.dc4d8789.css.map",
+    "main.563eaef9.js.map": "/mohit-portfolio/static/js/main.563eaef9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f74b425.css",
-    "static/js/main.b72b7931.js"
+    "static/css/main.dc4d8789.css",
+    "static/js/main.563eaef9.js"
   ]
 }
