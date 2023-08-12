@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mohit-portfolio/static/css/main.dc4d8789.css",
-    "main.js": "/mohit-portfolio/static/js/main.563eaef9.js",
+    "main.css": "/mohit-portfolio/static/css/main.5c23911a.css",
+    "main.js": "/mohit-portfolio/static/js/main.ea1eca7f.js",
     "static/media/apod.jpg": "/mohit-portfolio/static/media/apod.5837a97979bfd98485a6.jpg",
     "static/media/iptracker.jpg": "/mohit-portfolio/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
     "static/media/nftportal.jpg": "/mohit-portfolio/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
@@ -24,11 +24,11 @@
     "static/media/github.svg": "/mohit-portfolio/static/media/github.df097639a6001342213128ddd7708a49.svg",
     "index.html": "/mohit-portfolio/index.html",
     "static/media/linkedin.svg": "/mohit-portfolio/static/media/linkedin.a5c19aedc9509d8f932cc6206ddb4154.svg",
-    "main.dc4d8789.css.map": "/mohit-portfolio/static/css/main.dc4d8789.css.map",
-    "main.563eaef9.js.map": "/mohit-portfolio/static/js/main.563eaef9.js.map"
+    "main.5c23911a.css.map": "/mohit-portfolio/static/css/main.5c23911a.css.map",
+    "main.ea1eca7f.js.map": "/mohit-portfolio/static/js/main.ea1eca7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d8789.css",
-    "static/js/main.563eaef9.js"
+    "static/css/main.5c23911a.css",
+    "static/js/main.ea1eca7f.js"
   ]
 }
