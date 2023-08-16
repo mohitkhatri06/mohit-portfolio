@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mohit-portfolio/static/css/main.fabb3fd2.css",
-    "main.js": "/mohit-portfolio/static/js/main.a4f1bd97.js",
+    "main.js": "/mohit-portfolio/static/js/main.7d34de69.js",
     "static/media/apod.jpg": "/mohit-portfolio/static/media/apod.5837a97979bfd98485a6.jpg",
     "static/media/iptracker.jpg": "/mohit-portfolio/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
     "static/media/nftportal.jpg": "/mohit-portfolio/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
@@ -25,10 +25,10 @@
     "index.html": "/mohit-portfolio/index.html",
     "static/media/linkedin.svg": "/mohit-portfolio/static/media/linkedin.a5c19aedc9509d8f932cc6206ddb4154.svg",
     "main.fabb3fd2.css.map": "/mohit-portfolio/static/css/main.fabb3fd2.css.map",
-    "main.a4f1bd97.js.map": "/mohit-portfolio/static/js/main.a4f1bd97.js.map"
+    "main.7d34de69.js.map": "/mohit-portfolio/static/js/main.7d34de69.js.map"
   },
   "entrypoints": [
     "static/css/main.fabb3fd2.css",
-    "static/js/main.a4f1bd97.js"
+    "static/js/main.7d34de69.js"
   ]
 }
